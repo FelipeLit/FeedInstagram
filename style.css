@@ -1,0 +1,47 @@
+.contenedor{
+    margin-left: 2rem;
+}
+.encabezado{
+    display: flex;
+    gap: 1.5rem;
+}
+
+.encabezado,
+.perfil{
+    border-radius: 10px;
+}
+
+
+.botones{
+    width:7rem;
+}
+.imagenes-destacadas{
+    margin-right: 1rem;
+}
+
+#contenedor,
+.logos{
+    display: flex;
+    margin-left: 2rem;
+}
+.logos,
+.imagenes__logos{
+    height: 2rem;
+    gap: 7rem;
+    margin-top: 1rem;
+}
+#logo-etiqueta{
+    height: 2.8rem;
+}
+.imagenes-feed{
+    display: flex;
+    gap: 1.5rem;
+}
+
+.imagenes-feed,
+.publicaciones{
+    margin-top: 2rem;
+    height: 8rem;
+    width: 6.8rem;
+    border-radius: 7px;
+}
